@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Savya Gupta</h1>
 <h3 align="center">Full-Stack Web Developer | React, Express, MongoDB | Loves Solving Real-World Problems | VIT Student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=savyagupta-2004" alt="savyagupta-2004" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=savyagupta-2004&theme=dracula" alt="savyagupta-2004" /></a> </p>
 
 - 🔭 I’m currently working on [fixmybug](https://fixmybug.me/)
 
@@ -106,8 +106,8 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=savyagupta-2004&show_icons=true&locale=en&layout=compact" alt="savyagupta-2004" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=savyagupta-2004&show_icons=true&locale=en&layout=compact&theme=dracula" alt="savyagupta-2004" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=savyagupta-2004&show_icons=true&locale=en" alt="savyagupta-2004" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=savyagupta-2004&show_icons=true&locale=en&theme=dracula" alt="savyagupta-2004" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=savyagupta-2004&" alt="savyagupta-2004" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=savyagupta-2004&theme=dracula" alt="savyagupta-2004" /></p>
