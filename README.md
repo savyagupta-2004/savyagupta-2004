@@ -1,5 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savyagupta-2004&label=Profile%20views&color=0e75b6&style=flat" alt="Savya Gupta" /> <a href="https://savyagupta-2004.github.io/"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://savyagupta-2004.github.io/"/></a> </p>
 <!-- <img src="./header.png"> -->
+ <img align="center" src="./banner.jpg" alt="banner"  />
 <h1 align="center">Hello 👋, I'm Savya Gupta</h1>
 <h3 align="center">Software Developer | Full-Stack & Embedded Systems Specialist</h3>
 <div align="center">  
