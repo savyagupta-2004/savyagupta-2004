@@ -11,7 +11,7 @@
 <br>
 <br>
 <div align="center">
-    <!-- Buy Me a Coffee section removed as requested -->
+    <img align="center" src="./animated.gif" alt="banner"  />
 </div>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" style="width: 300px;margin-right: 60px" alt="Coding Animation">
