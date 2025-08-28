@@ -4,7 +4,7 @@
 <h1 align="center">Hello 👋, I'm Savya Gupta</h1>
 <h3 align="center">Software Developer | Full-Stack & Embedded Systems Specialist</h3>
 <div align="">  
-       SDE Intern @Amar Machine Tools | Full-Stack & Embedded Systems Developer | 300+ DSA Problems Solved (LeetCode + HackerRank) | 5⭐(Gold Level) Java @HackerRank | MERN, Next.js, Three.js | B.Tech ECE ’26
+     Full-Stack & Embedded Systems Developer with hands-on experience as an SDE Intern at Amar Machine Tools and Senior Web Developer at KeyNcoders Innovations. Skilled in delivering robust software and IoT solutions, managing complete SDLC, and optimizing both frontend and backend system performance. Versatile in MERN, Next.js, Three.js, and cloud technologies, with a strong foundation in data structures, algorithms, and database design. Proven track record solving 300+ coding problems on LeetCode and HackerRank, earning 5⭐ Gold Level in Java on HackerRank. Pursuing B.Tech in Electronics & Communication Engineering (VIT, ’26), combining technical excellence with leadership and collaborative problem-solving.
 </div>
 <br>
 <br>
