@@ -82,10 +82,11 @@
 </p>  
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savyagupta-2004&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
-  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=savyagupta-2004&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savyagupta-2004&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </div>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+<!-- <img src="./header.png"> -->
+<h3 align="center">Time to save the World</h3>
+<div align="center">
+ <img align="center" src="./ben-10.gif" alt="ben-10"  />
+</div>
