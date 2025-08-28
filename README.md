@@ -3,10 +3,8 @@
  <img align="center" src="./banner.jpg" alt="banner"  />
 <h1 align="center">Hello 👋, I'm Savya Gupta</h1>
 <h3 align="center">Software Developer | Full-Stack & Embedded Systems Specialist</h3>
-<div align="center">  
-        🌱 Currently expanding expertise in full-stack development and embedded software. <br>
-        👯 Open to collaborate on innovative software projects and research. <br>
-        📫 Connect with me via email: <a href="mailto:guptasavya667@gmail.com">guptasavya667@gmail.com</a> <br>
+<div align="">  
+       SDE Intern @Amar Machine Tools | Full-Stack & Embedded Systems Developer | 300+ DSA Problems Solved (LeetCode + HackerRank) | 5⭐(Gold Level) Java @HackerRank | MERN, Next.js, Three.js | B.Tech ECE ’26
 </div>
 <br>
 <br>
